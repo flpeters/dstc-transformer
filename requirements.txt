@@ -1,0 +1,4 @@
+fastai == 1.0.51
+pytorch == 1.0.1
+spacy
+numpy
