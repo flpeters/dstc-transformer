@@ -1,6 +1,6 @@
 # NLP Transformer
-By: Florian Peters, Mohamed Shaban Hassan Shaban, Mohannad Assad
 > Part of a Student Project at TU Berlin  
+> By: [Florian Peters](https://github.com/flpeters)  
 > last change: 13.03.2019  
 
 
